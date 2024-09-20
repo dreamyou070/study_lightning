@@ -1,1 +1,1 @@
-# study_lightning
+# 👩‍🎓 study_lightning 👩‍🎓
