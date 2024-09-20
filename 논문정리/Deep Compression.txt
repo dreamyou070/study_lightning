@@ -1,2 +1,0 @@
-Deep Compression : Compressing deep neural networks with pruning, trained quantization and Huffman coding
-

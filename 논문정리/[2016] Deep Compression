@@ -1,0 +1,17 @@
+Deep Compression : Compressing deep neural networks with pruning, trained quantization and Huffman coding
+
+1. Introduction
+ 1.1
+ 1.2
+
+2. Network Pruning
+ 2.1
+ 2.2
+
+3. Quantization and Weight Sharing
+ 3.1
+ 3.2
+
+4. Huffman Coding
+ 4.1
+ 4.2
