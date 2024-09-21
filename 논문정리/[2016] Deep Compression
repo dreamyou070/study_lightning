@@ -3,9 +3,9 @@ Deep Compression : Compressing deep neural networks with pruning, trained quanti
 1. Introduction
  1.1 reduce storage and energy required to runinference
  1.2 three strategy
-  1) model pruning
-  2) quantization
-  3) huffman coding for biased distribution of effective weights
+  1) model pruning : 많은 정보를 포함하는 connection만을 유지한채로 쓸모없는 connection을 제거
+  2) quantization : 비슷한 값을 가진 weight들을 동일한 weight 갖도록 bin에 넣어 weitht sharing을 한 후 bin의 인덱스만을 저장
+  3) huffman coding : 가장 빈번한 weight 값을 적은 bit로 표현
 
 2. Network Pruning
  small connection removing (unstructured pruning)
