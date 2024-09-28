@@ -1,0 +1,12 @@
+1. Introduction
+
+2. 
+
+
+3. Method
+3.1 Preliminaries
+- vision-language multimodal 의 기본적인 구조
+3.2 Multi-modality Alignment Guidance
+- unimodal token pruning 방법을 multimodal 에 적용하는 것을 기본 방침으로 삼는다.
+- 두개의 modal 상를 연결해 줄 수 있는 alignment guidance 를 사용한다.
+- 서로 다른 모달을 하나로 표현하기 위한 common token 을 이용한다.
